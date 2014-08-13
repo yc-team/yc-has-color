@@ -1,6 +1,6 @@
 {
   "name": "yc-has-color",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "yc tool for check if terminal has color",
   "main": "index.js",
   "scripts": {
