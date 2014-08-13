@@ -1,7 +1,7 @@
 {
   "name": "yc-has-color",
-  "version": "0.0.1",
-  "description": "yc tool for changing path string such as '/user/:name' to regular expression",
+  "version": "0.0.2",
+  "description": "yc tool for check if terminal has color",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
