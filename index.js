@@ -25,7 +25,9 @@ module.exports = function(path, keys){
         return true;
     }
 
-    //test case: cygwin
+    //test case: 
+    //windows git bash: cygwin
+    //mac: xterm
     return /^screen|^xterm|color|ansi|cygwin|linux/i.test(process.env.TERM);
 
 };
