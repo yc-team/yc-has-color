@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function(path, keys){
+module.exports = function(){
 
     //support argv like --no-color and -- color
     if (process.argv.indexOf('--no-color') > -1) {
